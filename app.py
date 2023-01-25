@@ -19,3 +19,4 @@ if submitted:
         title=f'{selected_geo} dashboard'
     )
     st.plotly_chart(line_fig)
+ 
