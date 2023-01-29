@@ -1,2 +1,6 @@
 pandas
 plotly
+tensorflow
+keras
+PIL
+numpy
